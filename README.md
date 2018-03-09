@@ -19,5 +19,6 @@
 
 5. Pin 3 of the UNO is connected to the (+) pin of the Buzzer
 
-![rfid-schematic_bb-web-1024x785](https://user-images.githubusercontent.com/18008644/37211859-8732db94-23d7-11e8-85b5-972cc568c0d2.png)
+![arduino_uno_rfid_rc522](https://user-images.githubusercontent.com/18008644/37213103-41756366-23db-11e8-8786-af0675ff65e8.jpg)
+
 
