@@ -6,6 +6,7 @@
 2. RC522 module
 3. buzzer (Optional)
 4. LED's (Optional)
+5. Small Breadboard and Wires
 
 # Connection
 1. The GND of the UNO is connected to the negative (-) pin of the buzzer, GND pin of the LED stick and GND pin of the RFID Module
@@ -17,4 +18,6 @@
 4. Pin 5 of the UNO is connected to the DIN pin of the LED stick
 
 5. Pin 3 of the UNO is connected to the (+) pin of the Buzzer
+
+![rfid-schematic_bb-web-1024x785](https://user-images.githubusercontent.com/18008644/37211859-8732db94-23d7-11e8-85b5-972cc568c0d2.png)
 
