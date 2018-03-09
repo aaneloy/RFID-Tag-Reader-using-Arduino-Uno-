@@ -1,4 +1,4 @@
-# RFID-Tag-Reader-using-Arduino-Uno
+# RFID RC522 module Reader using Arduino Uno
 
 
 # Components:
@@ -7,9 +7,9 @@
 3. Small Breadboard and Wires
 
 # Connection
-1. The GND of the UNO is connected to the negative (-) pin of the buzzer, GND pin of the LED stick and GND pin of the RFID Module
+1. The GND of the UNO is connected to the negative (-) GND pin of the RFID Module
 
-2. The 3.3V pin of the UNO is connected to the VCC pin of the LED stick and the 3.3V pin of the RFID Module
+2. The 3.3V pin of the UNO is connected to the 3.3V pin of the RFID Module
 
 3. Pin 9-10-11-12-13 of the UNO are connected to pin RST-SDA-MOSI-MISO-SCK of the RFID Module
 
