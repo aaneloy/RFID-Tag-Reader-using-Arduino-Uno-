@@ -10,7 +10,7 @@
  * SPI MISO    MISO         12 / ICSP-1   50        D12        ICSP-1           14
  * SPI SCK     SCK          13 / ICSP-3   52        D13        ICSP-3           15
  * 
- * 8A 69 73 5B  CB 08 04 00  62 63 64 65  66 67 68 69
+ * 8A 69 73 5B  CB 08 04 00  62 63 64 65  66 67 68 69 // use your own RFID UID from Serial monitor and change the existing UID
  */
 
 #include <SPI.h>
